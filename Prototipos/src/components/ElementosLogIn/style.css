@@ -1,0 +1,31 @@
+.elementos-log-in {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 80px;
+  position: relative;
+  width: 410px;
+}
+
+.elementos-log-in .email {
+  align-self: stretch;
+  color: #000000;
+  flex: 1;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+}
+
+.elementos-log-in .rectangle-19 {
+  align-self: stretch;
+  background-color: var(--second-item-color);
+  border-radius: 25px;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+}

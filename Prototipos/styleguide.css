@@ -1,0 +1,23 @@
+:root {
+  --dark-color: rgba(1, 106, 112, 1);
+  --dark-text-color: rgba(0, 0, 0, 1);
+  --disabled: rgba(144, 200, 172, 1);
+  --hover: rgba(162, 197, 121, 1);
+  --hover-2: rgba(162, 197, 121, 0.5);
+  --light-color: rgba(245, 240, 187, 1);
+  --light-text-color: rgba(255, 255, 221, 1);
+  --main-item-color: rgba(210, 222, 50, 1);
+  --second-item-color: rgba(115, 169, 173, 1);
+  --text-font-family: "Comfortaa-Regular", Helvetica;
+  --text-font-size: 20px;
+  --text-font-style: normal;
+  --text-font-weight: 400;
+  --text-letter-spacing: 0px;
+  --text-line-height: normal;
+  --title-font-family: "Domine-Regular", Helvetica;
+  --title-font-size: 48px;
+  --title-font-style: normal;
+  --title-font-weight: 400;
+  --title-letter-spacing: 0px;
+  --title-line-height: normal;
+}

@@ -1,0 +1,44 @@
+.botones {
+  align-items: center;
+  border-radius: 0px 10px 0px 10px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+}
+
+.botones .text-wrapper {
+  align-self: stretch;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 128px;
+}
+
+.botones.default {
+  background-color: var(--main-item-color);
+}
+
+.botones.disable {
+  background-color: var(--disabled);
+}
+
+.botones.default-2 {
+  background-color: var(--main-item-color);
+}
+
+.botones.default .text-wrapper {
+  color: var(--light-text-color);
+}
+
+.botones:hover {
+  background-color: var(--hover);
+  border-radius: 10px;
+}

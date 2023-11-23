@@ -1,0 +1,1 @@
+export { Inscripcion } from "./Inscripcion";

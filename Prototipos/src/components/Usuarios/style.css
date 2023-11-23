@@ -1,0 +1,83 @@
+.usuarios {
+  align-items: flex-start;
+  display: flex;
+  height: 70px;
+  position: relative;
+  width: 210px;
+}
+
+.usuarios .frame-20 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.usuarios .frame-21 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.usuarios .rectangle-32 {
+  align-self: stretch;
+  border-radius: 100px 0px 0px 100px;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+}
+
+.usuarios .imagen-2 {
+  height: 50px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 50px;
+}
+
+.usuarios .frame-22 {
+  align-self: stretch;
+  border-radius: 0px 100px 100px 0px;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.usuarios .nombre-del-usuario {
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 10px;
+  left: 70px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 29px;
+  white-space: nowrap;
+  width: 125px;
+}
+
+.usuarios .property-1-15-default {
+  background-color: var(--second-item-color);
+}
+
+.usuarios .property-1-15-variant-2 {
+  background-color: var(--main-item-color);
+}
+
+.usuarios .property-1-16-default {
+  background-color: var(--second-item-color);
+}
+
+.usuarios .property-1-16-variant-2 {
+  background-color: var(--main-item-color);
+}

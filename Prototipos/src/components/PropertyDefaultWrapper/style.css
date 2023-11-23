@@ -1,0 +1,76 @@
+.property-default-wrapper {
+  background-color: var(--second-item-color);
+  border-radius: 15px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 200px;
+  position: relative;
+  width: 150px;
+}
+
+.property-default-wrapper .text-wrapper-27 {
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+  width: 80px;
+}
+
+.property-default-wrapper .desde {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 10px;
+  position: absolute;
+  top: 50px;
+}
+
+.property-default-wrapper .text-wrapper-28 {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+}
+
+.property-default-wrapper .rectangle-27 {
+  background-color: var(--light-text-color);
+  border-radius: 5px;
+  height: 30px;
+  position: relative;
+  width: 130px;
+}
+
+.property-default-wrapper .frame-15 {
+  height: 30px;
+  left: 100px;
+  position: absolute;
+  top: 20px;
+  width: 30px;
+}
+
+.property-default-wrapper .hasta {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 10px;
+  position: absolute;
+  top: 110px;
+}
+
+.property-default-wrapper .frame-16 {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 20px;
+  width: 30px;
+}

@@ -1,0 +1,143 @@
+.frames-listos {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frames-listos .div-7 {
+  background-color: #ffffff;
+  height: 2384px;
+  position: relative;
+  width: 3202px;
+}
+
+.frames-listos .botones-instance {
+  left: 471px !important;
+  position: absolute !important;
+  top: 145px !important;
+}
+
+.frames-listos .card-desktop-instance {
+  left: 19px !important;
+  position: absolute !important;
+  top: 16px !important;
+}
+
+.frames-listos .card-mobiles-instance {
+  left: 471px !important;
+  position: absolute !important;
+  top: 21px !important;
+}
+
+.frames-listos .busqueda-instance {
+  left: 640px !important;
+  position: absolute !important;
+  top: 153px !important;
+}
+
+.frames-listos .carrucel-instance {
+  height: 155px !important;
+  left: 820px !important;
+  position: absolute !important;
+  top: 11px !important;
+  width: 410px !important;
+}
+
+.frames-listos .contra-instance {
+  left: 1251px !important;
+  position: absolute !important;
+  top: 11px !important;
+}
+
+.frames-listos .cuenta-instance {
+  left: 19px !important;
+  position: absolute !important;
+  top: 276px !important;
+}
+
+.frames-listos .desplegables-instance {
+  left: 389px !important;
+  position: absolute !important;
+  top: 236px !important;
+}
+
+.frames-listos .design-component-instance-node {
+  left: 379px !important;
+  position: absolute !important;
+  top: 335px !important;
+}
+
+.frames-listos .estados-de-citas-instance {
+  left: 823px !important;
+  position: absolute !important;
+  top: 195px !important;
+}
+
+.frames-listos .filtro-instance {
+  left: 1244px !important;
+  position: absolute !important;
+  top: 183px !important;
+}
+
+.frames-listos .filtro-2 {
+  left: 1244px !important;
+  position: absolute !important;
+  top: 301px !important;
+}
+
+.frames-listos .estrellas-10 {
+  height: 50px !important;
+  left: 1484px !important;
+  position: absolute !important;
+  top: 183px !important;
+  width: 50px !important;
+}
+
+.frames-listos .footer-instance {
+  background-color: transparent !important;
+  left: 23px !important;
+  position: absolute !important;
+  top: 571px !important;
+}
+
+.frames-listos .frame-25 {
+  left: 39px !important;
+  position: absolute !important;
+  top: 660px !important;
+}
+
+.frames-listos .inscripcion-instance {
+  left: 49px !important;
+  position: absolute !important;
+  top: 821px !important;
+}
+
+.frames-listos .menu-instance {
+  height: 310px !important;
+  left: 516px !important;
+  position: absolute !important;
+  top: 809px !important;
+  width: 55px !important;
+}
+
+.frames-listos .resea {
+  left: 598px !important;
+  position: absolute !important;
+  top: 809px !important;
+}
+
+.frames-listos .switch-instance {
+  height: 50px !important;
+  left: 1689px !important;
+  position: absolute !important;
+  top: 144px !important;
+  width: 120px !important;
+}
+
+.frames-listos .usuarios-instance {
+  left: 1268px !important;
+  position: absolute !important;
+  top: 573px !important;
+}

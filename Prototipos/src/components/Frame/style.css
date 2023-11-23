@@ -1,0 +1,70 @@
+.frame {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 112px;
+  position: relative;
+  width: 679px;
+}
+
+.frame .rectangle-29 {
+  align-self: stretch;
+  background-color: #ffffff;
+  border-radius: 10px 0px 10px 10px;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+}
+
+.frame .desplegable-3 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  left: 38px;
+  position: absolute;
+  top: 48px;
+  width: 602px;
+}
+
+.frame .add-5 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 5px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  overflow: hidden;
+  position: relative;
+}
+
+.frame .img-3 {
+  height: 15px;
+  position: relative;
+  width: 15px;
+}
+
+.frame .text-wrapper-30 {
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame .div-6 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 5px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  position: relative;
+}

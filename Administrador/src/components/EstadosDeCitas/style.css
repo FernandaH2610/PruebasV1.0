@@ -1,0 +1,133 @@
+.estados-de-citas {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  height: 465px;
+  position: relative;
+}
+
+.estados-de-citas .titulo {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--dark-color);
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  padding: 9px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.estados-de-citas .text-wrapper-2 {
+  align-self: stretch;
+  color: var(--light-text-color);
+  flex: 1;
+  font-family: "Domine", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.estados-de-citas .text-wrapper-3 {
+  align-self: stretch;
+  color: var(--light-text-color);
+  flex: 1;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.estados-de-citas .text-wrapper-4 {
+  align-self: stretch;
+  color: var(--light-text-color);
+  flex: 1;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.estados-de-citas .estados {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #ffffff;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 5px;
+  position: relative;
+  width: 100%;
+}
+
+.estados-de-citas .div-2 {
+  align-self: stretch;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.estados-de-citas .text-wrapper-5 {
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 10px;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.estados-de-citas .rectangle-3 {
+  background-color: #b3261e;
+  height: 10px;
+  left: 3px;
+  position: absolute;
+  top: 12px;
+  width: 10px;
+}
+
+.estados-de-citas .rectangle-4 {
+  background-color: #6750a4;
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 12px;
+  width: 10px;
+}
+
+.estados-de-citas .rectangle-5 {
+  background-color: var(--main-item-color);
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 12px;
+  width: 10px;
+}
+
+.estados-de-citas .rectangle-6 {
+  background-color: #ffffff;
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 400px;
+  position: relative;
+  width: 400px;
+}

@@ -1,0 +1,58 @@
+.busqueda {
+  align-items: flex-start;
+  display: flex;
+  height: 50px;
+  position: relative;
+  width: 170px;
+}
+
+.busqueda .frame-6 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  position: relative;
+  width: 50px;
+}
+
+.busqueda .rectangle-12 {
+  align-self: stretch;
+  background-color: var(--dark-color);
+  border-radius: 100px 0px 0px 100px;
+  box-shadow: 0px 4px 4px #00000040;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.busqueda .frame-7 {
+  height: 30px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 30px;
+}
+
+.busqueda .frame-8 {
+  align-self: stretch;
+  background-color: var(--light-text-color);
+  border-radius: 0px 100px 100px 0px;
+  box-shadow: 0px 4px 4px #00000040;
+  flex: 1;
+  flex-grow: 1;
+  overflow: hidden;
+  position: relative;
+}
+
+.busqueda .text-wrapper-9 {
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 30px;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+  width: 100px;
+}
