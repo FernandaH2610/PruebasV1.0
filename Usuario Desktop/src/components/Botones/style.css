@@ -1,0 +1,61 @@
+.botones {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+}
+
+.botones .boton {
+  align-self: stretch;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 128px;
+}
+
+.botones.property-1-4-hover {
+  background-color: var(--hover);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.botones.property-1-4-default {
+  background-color: var(--second-item-color);
+  border-radius: 0px 10px 0px 10px;
+  overflow: hidden;
+}
+
+.botones.property-1-4-disable {
+  background-color: var(--disabled);
+  border-radius: 0px 10px 0px 10px;
+}
+
+.botones.property-1-4-default-2 {
+  background-color: var(--main-item-color);
+  border-radius: 0px 10px 0px 10px;
+  overflow: hidden;
+}
+
+.botones.property-1-4-hover .boton {
+  color: #000000;
+}
+
+.botones.property-1-4-default .boton {
+  color: var(--light-text-color);
+}
+
+.botones.property-1-4-disable .boton {
+  color: #000000;
+}
+
+.botones.property-1-4-default-2 .boton {
+  color: #000000;
+}

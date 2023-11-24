@@ -1,0 +1,247 @@
+.screen-9 {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.screen-9 .frame-desktop-10 {
+  background-color: #ffffff;
+  height: 1024px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.screen-9 .resea-6 {
+  font-size: 24px !important;
+  left: 91px !important;
+  top: 12px !important;
+}
+
+.screen-9 .resea-7 {
+  height: 38px !important;
+  left: 4026px !important;
+  top: -2158px !important;
+  width: 38px !important;
+}
+
+.screen-9 .resea-8 {
+  height: 22px !important;
+  left: 121px !important;
+  top: 120px !important;
+  width: 142px !important;
+}
+
+.screen-9 .resea-9 {
+  font-size: 11.2px !important;
+  left: 47px !important;
+  top: 57px !important;
+  width: 303px !important;
+}
+
+.screen-9 .resea-10 {
+  border-radius: 3.75px !important;
+  height: 161px !important;
+  left: 100px !important;
+  position: absolute !important;
+  top: 720px !important;
+  width: 398px !important;
+}
+
+.screen-9 .resea-11 {
+  border-radius: 3.75px !important;
+  height: 161px !important;
+  left: 100px !important;
+  position: absolute !important;
+  top: 177px !important;
+  width: 398px !important;
+}
+
+.screen-9 .resea-12 {
+  height: 38px !important;
+  left: 4026px !important;
+  top: -1614px !important;
+  width: 38px !important;
+}
+
+.screen-9 .resea-13 {
+  border-radius: 3.75px !important;
+  height: 161px !important;
+  left: 100px !important;
+  position: absolute !important;
+  top: 358px !important;
+  width: 398px !important;
+}
+
+.screen-9 .resea-14 {
+  height: 38px !important;
+  left: 4026px !important;
+  top: -1796px !important;
+  width: 38px !important;
+}
+
+.screen-9 .resea-15 {
+  border-radius: 3.75px !important;
+  height: 161px !important;
+  left: 100px !important;
+  position: absolute !important;
+  top: 539px !important;
+  width: 398px !important;
+}
+
+.screen-9 .resea-16 {
+  height: 38px !important;
+  left: 4026px !important;
+  top: -1976px !important;
+  width: 38px !important;
+}
+
+.screen-9 .footer-25 {
+  background-color: transparent !important;
+  gap: 20px !important;
+  height: 104px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 920px !important;
+  width: 1440px !important;
+}
+
+.screen-9 .footer-26 {
+  gap: 16px !important;
+  height: 42px !important;
+  left: 450px !important;
+  top: 32px !important;
+}
+
+.screen-9 .footer-27 {
+  margin-right: -3667.5px !important;
+  margin-top: -2390.5px !important;
+  object-fit: unset !important;
+}
+
+.screen-9 .footer-28 {
+  font-size: 24px !important;
+}
+
+.screen-9 .nav-19 {
+  margin-right: -4000.5px !important;
+  margin-top: -1472.5px !important;
+}
+
+.screen-9 .nav-20 {
+  gap: 15px !important;
+  height: 100px !important;
+  left: 80px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 1360px !important;
+}
+
+.screen-9 .nav-21 {
+  gap: 30px !important;
+  left: 1225px !important;
+  top: 28px !important;
+}
+
+.screen-9 .nav-22 {
+  height: 45px !important;
+  margin-right: -2738px !important;
+  margin-top: -1472.5px !important;
+  width: 45px !important;
+}
+
+.screen-9 .nav-23 {
+  height: 45px !important;
+  left: 38px !important;
+  top: 28px !important;
+  width: 618px !important;
+}
+
+.screen-9 .nav-24 {
+  border-radius: 37.5px 0px 0px 37.5px !important;
+  height: 45px !important;
+  width: 30px !important;
+}
+
+.screen-9 .nav-25 {
+  height: 15px !important;
+  left: 4010px !important;
+  top: -1457px !important;
+  width: 15px !important;
+}
+
+.screen-9 .nav-26 {
+  font-size: 16.5px !important;
+  left: 39px !important;
+  top: 14px !important;
+  width: 75px !important;
+}
+
+.screen-9 .menu-4 {
+  height: 920px;
+  left: 4118px;
+  position: absolute;
+  top: -1446px;
+  width: 80px;
+}
+
+.screen-9 .line-4 {
+  height: 1px;
+  left: 4646px;
+  object-fit: cover;
+  position: absolute;
+  top: -1265px;
+  width: 665px;
+}
+
+.screen-9 .text-wrapper-39 {
+  color: #000000;
+  font-family: "Domine", Helvetica;
+  font-size: 48px;
+  font-weight: 400;
+  height: 111px;
+  left: 550px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 179px;
+  width: 728px;
+}
+
+.screen-9 .text-wrapper-40 {
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 660px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 362px;
+  width: 600px;
+}
+
+.screen-9 .text-wrapper-41 {
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 660px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 594px;
+  width: 600px;
+}
+
+.screen-9 .frame-27 {
+  display: block;
+  height: 50px;
+  left: 4733px;
+  position: absolute;
+  top: -1235px;
+  width: 50px;
+}

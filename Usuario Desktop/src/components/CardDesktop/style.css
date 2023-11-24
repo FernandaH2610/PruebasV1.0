@@ -1,0 +1,322 @@
+.card-desktop {
+  height: 211px;
+  position: relative;
+  width: 420px;
+}
+
+.card-desktop .rectangle {
+  height: 106px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 420px;
+}
+
+.card-desktop .frame {
+  align-items: center;
+  background-color: var(--light-text-color);
+  border-radius: 0px 0px 5px 5px;
+  display: flex;
+  gap: 10px;
+  height: 105.5px;
+  left: 0;
+  padding: 20px 8px;
+  position: absolute;
+  top: 106px;
+  width: 420px;
+}
+
+.card-desktop .text-wrapper {
+  color: var(--dark-text-color);
+  flex: 1;
+  font-family: "Domine", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.card-desktop .div {
+  color: var(--dark-text-color);
+  flex: 1;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: relative;
+  text-align: center;
+}
+
+.card-desktop .icon {
+  background-color: var(--dark-color);
+  border-radius: 15px;
+  height: 30px;
+  left: 195px;
+  position: absolute;
+  top: 91px;
+  width: 30px;
+}
+
+.card-desktop .overlap-group {
+  height: 10px;
+  left: 10px;
+  position: relative;
+  top: 10px;
+  width: 10px;
+}
+
+.card-desktop .rectangle-2 {
+  background-color: var(--main-item-color);
+  height: 10px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.card-desktop .rectangle-3 {
+  background-color: var(--main-item-color);
+  height: 10px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  transform: rotate(-90deg);
+  width: 2px;
+}
+
+.card-desktop .frame-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.card-desktop .img {
+  align-self: stretch;
+  flex: 1;
+  flex-grow: 1;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.card-desktop .p {
+  color: var(--dark-text-color);
+  font-family: "Comfortaa", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  top: 111px;
+  white-space: nowrap;
+}
+
+.card-desktop .text-wrapper-2 {
+  color: var(--dark-text-color);
+  font-family: "Domine", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 145px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 62px;
+  white-space: nowrap;
+}
+
+.card-desktop .text-wrapper-3 {
+  color: var(--dark-text-color);
+  font-family: "Domine", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 47px;
+  width: 404px;
+}
+
+.card-desktop .overlap-group-wrapper {
+  background-color: var(--light-color);
+  position: absolute;
+}
+
+.card-desktop .overlap-group-2 {
+  position: relative;
+}
+
+.card-desktop .rectangle-4 {
+  background-color: var(--second-item-color);
+  position: absolute;
+  top: 0;
+}
+
+.card-desktop .rectangle-5 {
+  background-color: var(--second-item-color);
+  position: absolute;
+  top: 0;
+  transform: rotate(-90deg);
+}
+
+.card-desktop.hover {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-desktop.disable {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-desktop.click {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-desktop.hover .frame-2 {
+  background-color: var(--hover);
+  flex: 1;
+  flex-grow: 1;
+  opacity: 0.5;
+}
+
+.card-desktop.default .frame-2 {
+  background-color: var(--hover);
+}
+
+.card-desktop.disable .frame-2 {
+  background-color: var(--disabled);
+  height: 211px;
+  padding: 20px 8px;
+}
+
+.card-desktop.click .frame-2 {
+  background-color: var(--hover);
+}
+
+.card-desktop.hover .overlap-group-wrapper {
+  border-radius: 15px;
+  height: 30px;
+  left: 195px;
+  top: 150px;
+  width: 30px;
+}
+
+.card-desktop.default .overlap-group-wrapper {
+  border-radius: 15px;
+  height: 30px;
+  left: 195px;
+  top: 150px;
+  width: 30px;
+}
+
+.card-desktop.disable .overlap-group-wrapper {
+  border-radius: 25px;
+  height: 50px;
+  left: 185px;
+  top: 114px;
+  transform: rotate(-45deg);
+  width: 50px;
+}
+
+.card-desktop.click .overlap-group-wrapper {
+  border-radius: 15px;
+  height: 30px;
+  left: 195px;
+  top: 150px;
+  width: 30px;
+}
+
+.card-desktop.hover .overlap-group-2 {
+  height: 10px;
+  left: 10px;
+  top: 10px;
+  width: 10px;
+}
+
+.card-desktop.default .overlap-group-2 {
+  height: 10px;
+  left: 10px;
+  top: 10px;
+  width: 10px;
+}
+
+.card-desktop.disable .overlap-group-2 {
+  height: 17px;
+  left: 17px;
+  top: 17px;
+  width: 17px;
+}
+
+.card-desktop.click .overlap-group-2 {
+  height: 10px;
+  left: 10px;
+  top: 10px;
+  width: 10px;
+}
+
+.card-desktop.hover .rectangle-4 {
+  height: 10px;
+  left: 4px;
+  width: 2px;
+}
+
+.card-desktop.default .rectangle-4 {
+  height: 10px;
+  left: 4px;
+  width: 2px;
+}
+
+.card-desktop.disable .rectangle-4 {
+  height: 17px;
+  left: 7px;
+  width: 3px;
+}
+
+.card-desktop.click .rectangle-4 {
+  height: 10px;
+  left: 4px;
+  width: 2px;
+}
+
+.card-desktop.hover .rectangle-5 {
+  height: 10px;
+  left: 4px;
+  width: 2px;
+}
+
+.card-desktop.default .rectangle-5 {
+  height: 10px;
+  left: 4px;
+  width: 2px;
+}
+
+.card-desktop.disable .rectangle-5 {
+  height: 17px;
+  left: 7px;
+  width: 3px;
+}
+
+.card-desktop.click .rectangle-5 {
+  height: 10px;
+  left: 4px;
+  width: 2px;
+}

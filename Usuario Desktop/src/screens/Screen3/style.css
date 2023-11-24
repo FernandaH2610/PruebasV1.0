@@ -1,0 +1,245 @@
+.screen-3 {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.screen-3 .frame-desktop-4 {
+  background-color: #ffffff;
+  height: 1024px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.screen-3 .overlap-8 {
+  height: 1029px;
+  position: relative;
+}
+
+.screen-3 .card-desktop-8 {
+  height: 206px !important;
+  left: 470px !important;
+  position: absolute !important;
+  top: 351px !important;
+  width: 414px !important;
+}
+
+.screen-3 .card-desktop-9 {
+  height: 206px !important;
+  left: 471px !important;
+  position: absolute !important;
+  top: 587px !important;
+  width: 414px !important;
+}
+
+.screen-3 .overlap-9 {
+  height: 1029px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.screen-3 .overlap-10 {
+  height: 206px;
+  left: 0;
+  position: absolute;
+  top: 823px;
+  width: 1440px;
+}
+
+.screen-3 .card-desktop-10 {
+  height: 206px !important;
+  left: 471px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 414px !important;
+}
+
+.screen-3 .card-desktop-11 {
+  height: 206px !important;
+  left: 924px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 414px !important;
+}
+
+.screen-3 .footer-13 {
+  background-color: transparent !important;
+  gap: 20px !important;
+  height: 104px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 97px !important;
+  width: 1440px !important;
+}
+
+.screen-3 .footer-14 {
+  gap: 16px !important;
+  height: 42px !important;
+  left: 450px !important;
+  top: 32px !important;
+}
+
+.screen-3 .footer-15 {
+  object-fit: unset !important;
+}
+
+.screen-3 .footer-16 {
+  font-size: 24px !important;
+}
+
+.screen-3 .menu-3 {
+  height: 919px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 80px;
+}
+
+.screen-3 .line-3 {
+  height: 665px;
+  left: 340px;
+  object-fit: cover;
+  position: absolute;
+  top: 180px;
+  width: 1px;
+}
+
+.screen-3 .card-desktop-12 {
+  height: 206px !important;
+  left: 923px !important;
+  position: absolute !important;
+  top: 351px !important;
+  width: 414px !important;
+}
+
+.screen-3 .card-desktop-13 {
+  height: 206px !important;
+  left: 924px !important;
+  position: absolute !important;
+  top: 587px !important;
+  width: 414px !important;
+}
+
+.screen-3 .nav-10 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  height: 100px;
+  justify-content: center;
+  left: 80px;
+  position: absolute;
+  top: 0;
+  width: 1360px;
+}
+
+.screen-3 .rectangle-18 {
+  align-self: stretch;
+  background-color: var(--dark-color);
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+}
+
+.screen-3 .frame-20 {
+  height: 45px;
+  left: 1075px;
+  position: absolute;
+  top: 28px;
+  width: 270px;
+}
+
+.screen-3 .frame-21 {
+  align-items: center;
+  display: flex;
+  height: 45px;
+  justify-content: flex-end;
+  left: 38px;
+  position: absolute;
+  top: 28px;
+  width: 618px;
+}
+
+.screen-3 .rectangle-19 {
+  background-color: var(--second-item-color);
+  border-radius: 37.5px 0px 0px 37.5px;
+  height: 45px;
+  position: relative;
+  width: 30px;
+}
+
+.screen-3 .frame-22 {
+  height: 15px;
+  left: 9px;
+  position: absolute;
+  top: 15px;
+  width: 15px;
+}
+
+.screen-3 .rectangle-20 {
+  align-self: stretch;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.screen-3 .text-wrapper-18 {
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 16.5px;
+  font-weight: 400;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.screen-3 .filtro-instance {
+  height: 330px !important;
+  left: 160px !important;
+  position: absolute !important;
+  top: 350px !important;
+  width: 170px !important;
+}
+
+.screen-3 .filtro-3 {
+  left: 11px !important;
+  top: 16px !important;
+  width: 91px !important;
+}
+
+.screen-3 .filtro-4 {
+  left: 20px !important;
+  top: 115px !important;
+}
+
+.screen-3 .filtro-5 {
+  display: flex !important;
+  height: 50px !important;
+  left: 20px !important;
+  top: 175px !important;
+  width: 130px !important;
+}
+
+.screen-3 .text-wrapper-19 {
+  color: #000000;
+  font-family: "Domine", Helvetica;
+  font-size: 48px;
+  font-weight: 400;
+  height: 111px;
+  left: 370px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 169px;
+  width: 890px;
+}
