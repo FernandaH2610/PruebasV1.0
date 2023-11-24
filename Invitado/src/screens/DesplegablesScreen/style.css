@@ -1,0 +1,43 @@
+.desplegables-instance {
+  display: inline-flex !important;
+  gap: 20px !important;
+  height: unset !important;
+  width: unset !important;
+}
+
+.desplegables-2 {
+  align-self: unset !important;
+  border-radius: 20px 0px 20px 20px !important;
+  flex: unset !important;
+  flex-grow: unset !important;
+  height: 160px !important;
+  width: 440px !important;
+}
+
+.desplegables-3 {
+  gap: 20px !important;
+  height: 100px !important;
+  left: 20px !important;
+  top: 30px !important;
+  width: 402px !important;
+}
+
+.desplegables-4 {
+  border-radius: 10px !important;
+  gap: 20px !important;
+}
+
+.desplegables-5 {
+  height: 30px !important;
+  width: 30px !important;
+}
+
+.desplegables-6 {
+  font-size: 24px !important;
+}
+
+.desplegables-7 {
+  height: 30px !important;
+  left: 410px !important;
+  width: 30px !important;
+}

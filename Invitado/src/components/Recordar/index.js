@@ -1,0 +1,1 @@
+export { Recordar } from "./Recordar";
