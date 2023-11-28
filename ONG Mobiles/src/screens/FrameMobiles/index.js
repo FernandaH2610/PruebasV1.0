@@ -1,0 +1,1 @@
+export { FrameMobiles } from "./FrameMobiles";

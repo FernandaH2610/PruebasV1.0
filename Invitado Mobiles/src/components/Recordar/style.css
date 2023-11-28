@@ -1,0 +1,31 @@
+.recordar {
+  align-items: flex-start;
+  display: flex;
+  gap: 5px;
+  height: 20px;
+  position: relative;
+  width: 224px;
+}
+
+.recordar .rectangle-16 {
+  align-self: stretch;
+  background-color: #ffffff;
+  max-height: 30px;
+  max-width: 30px;
+  position: relative;
+  width: 20px;
+}
+
+.recordar .text-wrapper-13 {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -14px;
+  margin-top: -1px;
+  position: relative;
+  width: 213px;
+}

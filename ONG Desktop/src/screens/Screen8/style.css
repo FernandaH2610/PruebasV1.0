@@ -1,0 +1,167 @@
+.screen-8 {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.screen-8 .frame-desktop-5 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #ffffff1a;
+  height: 1024px;
+  overflow: hidden;
+  position: relative;
+  width: 1437px;
+}
+
+.screen-8 .overlap-13 {
+  height: 920px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.screen-8 .overlap-group-5 {
+  height: 920px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1439px;
+}
+
+.screen-8 .image {
+  height: 820px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 100px;
+  width: 1357px;
+}
+
+.screen-8 .text-wrapper-26 {
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  height: 135px;
+  left: 109px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 429px;
+  width: 1220px;
+}
+
+.screen-8 .menu-2 {
+  height: 920px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 80px !important;
+}
+
+.screen-8 .text-wrapper-27 {
+  color: #000000;
+  font-family: "Domine", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  height: 111px;
+  left: 79px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 258px;
+  width: 1360px;
+}
+
+.screen-8 .botones-instance {
+  border-radius: 0px 20px 0px 20px !important;
+  gap: 20px !important;
+  left: 718px !important;
+  padding: 20px !important;
+  position: absolute !important;
+  top: 657px !important;
+}
+
+.screen-8 .botones-2 {
+  font-size: 24px !important;
+  margin-top: -2px !important;
+  width: 256px !important;
+}
+
+.screen-8 .nav-36 {
+  gap: 15px !important;
+  height: 100px !important;
+  left: 80px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 1360px !important;
+}
+
+.screen-8 .nav-37 {
+  gap: 30px !important;
+  left: 1075px !important;
+  top: 28px !important;
+}
+
+.screen-8 .nav-38 {
+  height: 45px !important;
+  width: 45px !important;
+}
+
+.screen-8 .nav-39 {
+  height: 45px !important;
+  left: 38px !important;
+  top: 28px !important;
+  width: 618px !important;
+}
+
+.screen-8 .nav-40 {
+  border-radius: 37.5px 0px 0px 37.5px !important;
+  height: 45px !important;
+  width: 30px !important;
+}
+
+.screen-8 .nav-41 {
+  height: 15px !important;
+  left: 9px !important;
+  top: 15px !important;
+  width: 15px !important;
+}
+
+.screen-8 .nav-42 {
+  font-size: 16.5px !important;
+  left: 39px !important;
+  top: 14px !important;
+  width: 75px !important;
+}
+
+.screen-8 .footer-20 {
+  background-color: transparent !important;
+  gap: 20px !important;
+  height: 104px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 920px !important;
+  width: 1440px !important;
+}
+
+.screen-8 .footer-21 {
+  gap: 16px !important;
+  height: 42px !important;
+  left: 450px !important;
+  top: 32px !important;
+}
+
+.screen-8 .footer-22 {
+  object-fit: unset !important;
+}
+
+.screen-8 .footer-23 {
+  font-size: 24px !important;
+}

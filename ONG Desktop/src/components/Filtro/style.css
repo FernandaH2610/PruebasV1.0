@@ -1,0 +1,76 @@
+.filtro {
+  background-color: var(--second-item-color);
+  border-radius: 15px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 200px;
+  position: relative;
+  width: 150px;
+}
+
+.filtro .text-wrapper-8 {
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+  width: 80px;
+}
+
+.filtro .desde {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 10px;
+  position: absolute;
+  top: 50px;
+}
+
+.filtro .text-wrapper-9 {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+}
+
+.filtro .rectangle-12 {
+  background-color: var(--light-text-color);
+  border-radius: 5px;
+  height: 30px;
+  position: relative;
+  width: 130px;
+}
+
+.filtro .frame-11 {
+  height: 30px;
+  left: 100px;
+  position: absolute;
+  top: 20px;
+  width: 30px;
+}
+
+.filtro .hasta {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 10px;
+  position: absolute;
+  top: 110px;
+}
+
+.filtro .frame-12 {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 20px;
+  width: 30px;
+}

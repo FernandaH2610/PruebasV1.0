@@ -1,0 +1,140 @@
+.cuenta {
+  height: 322px;
+  width: 387px;
+}
+
+.cuenta .div-2 {
+  height: 322px;
+  position: relative;
+}
+
+.cuenta .rectangle-4 {
+  background-color: var(--light-text-color);
+  border-radius: 5.62px;
+  height: 322px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 387px;
+}
+
+.cuenta .frame-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 263px;
+  left: 34px;
+  position: absolute;
+  top: 34px;
+  width: 327px;
+}
+
+.cuenta .frame-9 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.cuenta .imagen {
+  height: 112.5px;
+  object-fit: cover;
+  position: relative;
+  width: 112.5px;
+}
+
+.cuenta .text-wrapper-3 {
+  color: var(--dark-color);
+  font-family: "Comfortaa", Helvetica;
+  font-size: 13.5px;
+  font-weight: 400;
+  height: 15px;
+  left: 181px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 76px;
+  white-space: nowrap;
+}
+
+.cuenta .nombre {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  height: 146.25px;
+  position: relative;
+  width: 100%;
+}
+
+.cuenta .div-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+}
+
+.cuenta .text-wrapper-4 {
+  align-self: stretch;
+  color: #000000;
+  flex: 1;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 13.5px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.12px;
+  position: relative;
+}
+
+.cuenta .rectangle-5 {
+  align-self: stretch;
+  background-color: var(--second-item-color);
+  border-radius: 28.12px;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+}
+
+.cuenta .text-wrapper-5 {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 13.5px;
+  font-weight: 400;
+  height: 22.5px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.12px;
+  position: relative;
+}
+
+.cuenta .rectangle-6 {
+  align-self: stretch;
+  background-color: var(--second-item-color);
+  border-radius: 28.12px;
+  height: 22.5px;
+  position: relative;
+  width: 100%;
+}
+
+.cuenta .bx-log-out {
+  height: 34px;
+  left: 294px;
+  position: absolute;
+  top: 0;
+  width: 34px;
+}
+
+.cuenta .bx-x {
+  height: 34px;
+  left: 353px;
+  position: absolute;
+  top: 0;
+  width: 34px;
+}

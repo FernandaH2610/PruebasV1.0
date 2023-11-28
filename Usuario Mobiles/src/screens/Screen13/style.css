@@ -1,0 +1,287 @@
+.screen-13 {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.screen-13 .frame-desktop-13 {
+  background-color: #ffffff;
+  height: 1024px;
+  overflow: hidden;
+  width: 1438px;
+}
+
+.screen-13 .overlap-14 {
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.screen-13 .overlap-15 {
+  height: 919px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1439px;
+}
+
+.screen-13 .text-wrapper-56 {
+  color: #000000;
+  font-family: "Domine", Helvetica;
+  font-size: 48px;
+  font-weight: 400;
+  height: 111px;
+  left: 79px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 134px;
+  width: 1360px;
+}
+
+.screen-13 .menu-13 {
+  height: 919px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 80px !important;
+}
+
+.screen-13 .card-desktop-34 {
+  height: 206px;
+  left: 100px;
+  position: absolute;
+  top: 282px;
+  width: 414px;
+}
+
+.screen-13 .rectangle-36 {
+  height: 106px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 420px;
+}
+
+.screen-13 .frame-24 {
+  align-items: center;
+  background-color: var(--light-text-color);
+  border-radius: 0px 0px 5px 5px;
+  display: flex;
+  gap: 10px;
+  height: 105.5px;
+  left: 0;
+  padding: 20px 8px;
+  position: absolute;
+  top: 106px;
+  width: 420px;
+}
+
+.screen-13 .text-wrapper-57 {
+  color: var(--dark-text-color);
+  flex: 1;
+  font-family: "Domine", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.screen-13 .text-wrapper-58 {
+  color: var(--dark-text-color);
+  flex: 1;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: relative;
+  text-align: center;
+}
+
+.screen-13 .icon-3 {
+  background-color: var(--dark-color);
+  border-radius: 15px;
+  height: 30px;
+  left: 195px;
+  position: absolute;
+  top: 91px;
+  width: 30px;
+}
+
+.screen-13 .overlap-group-12 {
+  height: 10px;
+  left: 10px;
+  position: relative;
+  top: 10px;
+  width: 10px;
+}
+
+.screen-13 .rectangle-37 {
+  background-color: var(--main-item-color);
+  height: 10px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.screen-13 .rectangle-38 {
+  background-color: var(--main-item-color);
+  height: 10px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  transform: rotate(-90deg);
+  width: 2px;
+}
+
+.screen-13 .card-desktop-35 {
+  height: 206px;
+  left: 101px;
+  position: absolute;
+  top: 518px;
+  width: 414px;
+}
+
+.screen-13 .overlap-16 {
+  height: 270px;
+  left: 0;
+  position: absolute;
+  top: 754px;
+  width: 1440px;
+}
+
+.screen-13 .card-desktop-36 {
+  height: 206px;
+  left: 101px;
+  position: absolute;
+  top: 0;
+  width: 414px;
+}
+
+.screen-13 .card-desktop-37 {
+  height: 206px;
+  left: 554px;
+  position: absolute;
+  top: 0;
+  width: 414px;
+}
+
+.screen-13 .card-desktop-38 {
+  height: 206px;
+  left: 1006px;
+  position: absolute;
+  top: 0;
+  width: 414px;
+}
+
+.screen-13 .footer-48 {
+  background-color: transparent !important;
+  gap: 20px !important;
+  height: 104px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 166px !important;
+  width: 1440px !important;
+}
+
+.screen-13 .footer-49 {
+  gap: 16px !important;
+  height: 42px !important;
+  left: 450px !important;
+  top: 32px !important;
+}
+
+.screen-13 .footer-50 {
+  object-fit: unset !important;
+}
+
+.screen-13 .footer-51 {
+  font-size: 24px !important;
+}
+
+.screen-13 .card-desktop-39 {
+  height: 206px;
+  left: 553px;
+  position: absolute;
+  top: 282px;
+  width: 414px;
+}
+
+.screen-13 .card-desktop-40 {
+  height: 206px;
+  left: 554px;
+  position: absolute;
+  top: 518px;
+  width: 414px;
+}
+
+.screen-13 .card-desktop-41 {
+  height: 206px;
+  left: 1006px;
+  position: absolute;
+  top: 282px;
+  width: 414px;
+}
+
+.screen-13 .card-desktop-42 {
+  height: 206px;
+  left: 1007px;
+  position: absolute;
+  top: 518px;
+  width: 414px;
+}
+
+.screen-13 .nav-85 {
+  gap: 15px !important;
+  height: 100px !important;
+  left: 80px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 1360px !important;
+}
+
+.screen-13 .nav-86 {
+  gap: 30px !important;
+  left: 1075px !important;
+  top: 28px !important;
+}
+
+.screen-13 .nav-87 {
+  height: 45px !important;
+  width: 45px !important;
+}
+
+.screen-13 .nav-88 {
+  height: 45px !important;
+  left: 38px !important;
+  top: 28px !important;
+  width: 618px !important;
+}
+
+.screen-13 .nav-89 {
+  border-radius: 37.5px 0px 0px 37.5px !important;
+  height: 45px !important;
+  width: 30px !important;
+}
+
+.screen-13 .nav-90 {
+  height: 15px !important;
+  left: 9px !important;
+  top: 15px !important;
+  width: 15px !important;
+}
+
+.screen-13 .nav-91 {
+  font-size: 16.5px !important;
+  left: 39px !important;
+  top: 14px !important;
+  width: 75px !important;
+}

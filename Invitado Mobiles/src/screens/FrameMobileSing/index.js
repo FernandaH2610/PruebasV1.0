@@ -1,0 +1,1 @@
+export { FrameMobileSing } from "./FrameMobileSing";

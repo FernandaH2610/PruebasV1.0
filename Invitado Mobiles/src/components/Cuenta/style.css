@@ -1,0 +1,136 @@
+.cuenta {
+  height: 286px;
+  position: relative;
+  width: 344px;
+}
+
+.cuenta .rectangle {
+  background-color: var(--light-text-color);
+  border-radius: 5px;
+  height: 286px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 344px;
+}
+
+.cuenta .frame {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 234px;
+  left: 30px;
+  position: absolute;
+  top: 30px;
+  width: 291px;
+}
+
+.cuenta .div {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.cuenta .imagen {
+  height: 100px;
+  object-fit: cover;
+  position: relative;
+  width: 100px;
+}
+
+.cuenta .text-wrapper {
+  color: var(--dark-color);
+  font-family: "Comfortaa", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 13px;
+  left: 161px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.cuenta .nombre {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  height: 130px;
+  position: relative;
+  width: 100%;
+}
+
+.cuenta .div-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+}
+
+.cuenta .text-wrapper-2 {
+  align-self: stretch;
+  color: #000000;
+  flex: 1;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+}
+
+.cuenta .rectangle-2 {
+  align-self: stretch;
+  background-color: var(--second-item-color);
+  border-radius: 25px;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+}
+
+.cuenta .text-wrapper-3 {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+}
+
+.cuenta .rectangle-3 {
+  align-self: stretch;
+  background-color: var(--second-item-color);
+  border-radius: 25px;
+  height: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.cuenta .bx-log-out {
+  height: 30px;
+  left: 261px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.cuenta .bx-x {
+  height: 30px;
+  left: 314px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}

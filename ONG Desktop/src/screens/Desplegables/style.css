@@ -1,0 +1,97 @@
+.desplegables {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+.desplegables .div-5 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 20px;
+  opacity: 0;
+}
+
+.desplegables .rectangle-16 {
+  background-color: var(--light-text-color);
+  border-radius: 20px 0px 20px 20px;
+  height: 160px;
+  position: relative;
+  width: 440px;
+}
+
+.desplegables .desplegable {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 100px;
+  justify-content: center;
+  left: 20px;
+  position: absolute;
+  top: 30px;
+  width: 402px;
+}
+
+.desplegables .home {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 10px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 20px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.desplegables .frame-16 {
+  height: 30px;
+  margin-bottom: -969px;
+  margin-left: -128px;
+  position: relative;
+  width: 30px;
+}
+
+.desplegables .text-wrapper-17 {
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desplegables .me-gusta {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 10px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.desplegables .frame-17 {
+  height: 30px;
+  margin-bottom: -909px;
+  margin-left: -128px;
+  position: relative;
+  width: 30px;
+}
+
+.desplegables .bx-x-2 {
+  height: 30px;
+  left: 302px;
+  position: absolute;
+  top: 1004px;
+  width: 30px;
+}

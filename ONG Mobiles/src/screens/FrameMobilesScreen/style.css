@@ -1,0 +1,215 @@
+.frame-mobiles-screen {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame-mobiles-screen .frame-mobiles-2 {
+  background-color: #ffffff;
+  height: 932px;
+  position: relative;
+  width: 430px;
+}
+
+.frame-mobiles-screen .nav-7 {
+  height: 60px !important;
+  left: 60px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 370px !important;
+}
+
+.frame-mobiles-screen .nav-8 {
+  left: 130px !important;
+  top: 15px !important;
+}
+
+.frame-mobiles-screen .footer-7 {
+  background-color: transparent !important;
+  height: 50px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 882px !important;
+  width: 430px !important;
+}
+
+.frame-mobiles-screen .footer-8 {
+  left: 80px !important;
+  top: 15px !important;
+}
+
+.frame-mobiles-screen .menu-14-instance {
+  height: 60px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 60px !important;
+}
+
+.frame-mobiles-screen .frame-22 {
+  box-shadow: 0px 4px 4px #00000040 !important;
+  gap: 6.23px !important;
+  height: 21px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 91px !important;
+  width: 430px !important;
+}
+
+.frame-mobiles-screen .frame-23 {
+  border-radius: 6.23px 0px 6.23px 6.23px !important;
+}
+
+.frame-mobiles-screen .frame-24 {
+  gap: 6.23px !important;
+  left: 27px !important;
+  top: 5px !important;
+  width: 375px !important;
+}
+
+.frame-mobiles-screen .frame-26 {
+  border-radius: 3.11px !important;
+  gap: 6.23px !important;
+}
+
+.frame-mobiles-screen .frame-27 {
+  height: 9.34px !important;
+  width: 9.34px !important;
+}
+
+.frame-mobiles-screen .frame-28 {
+  font-size: 7.5px !important;
+}
+
+.frame-mobiles-screen .frame-29 {
+  background-color: var(--hover-2) !important;
+  border-radius: 3.11px !important;
+  gap: 6.23px !important;
+}
+
+.frame-mobiles-screen .group-4 {
+  height: 719px;
+  left: 79px;
+  position: absolute;
+  top: 143px;
+  width: 272px;
+}
+
+.frame-mobiles-screen .frame-30 {
+  align-items: flex-start;
+  background-color: var(--hover);
+  border-radius: 3.2px;
+  display: flex;
+  flex-direction: column;
+  gap: 6.4px;
+  height: 135.14px;
+  justify-content: center;
+  left: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  width: 269px;
+}
+
+.frame-mobiles-screen .rectangle-13 {
+  align-self: stretch;
+  flex: 1;
+  flex-grow: 1;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.frame-mobiles-screen .text-wrapper-13 {
+  color: var(--dark-text-color);
+  font-family: "Comfortaa", Helvetica;
+  font-size: 7.7px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 6.4px;
+  position: absolute;
+  text-align: center;
+  top: 71px;
+  white-space: nowrap;
+}
+
+.frame-mobiles-screen .text-wrapper-14 {
+  color: var(--dark-text-color);
+  font-family: "Domine", Helvetica;
+  font-size: 9px;
+  font-weight: 400;
+  left: 93px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 40px;
+  white-space: nowrap;
+}
+
+.frame-mobiles-screen .frame-31 {
+  align-items: flex-start;
+  background-color: var(--hover);
+  border-radius: 3.2px;
+  display: flex;
+  flex-direction: column;
+  gap: 6.4px;
+  height: 135.14px;
+  justify-content: center;
+  left: 3px;
+  opacity: 0.5;
+  position: absolute;
+  top: 292px;
+  width: 269px;
+}
+
+.frame-mobiles-screen .frame-32 {
+  align-items: flex-start;
+  background-color: var(--hover);
+  border-radius: 3.2px;
+  display: flex;
+  flex-direction: column;
+  gap: 6.4px;
+  height: 135.14px;
+  justify-content: center;
+  left: 3px;
+  opacity: 0.5;
+  position: absolute;
+  top: 584px;
+  width: 269px;
+}
+
+.frame-mobiles-screen .frame-33 {
+  align-items: flex-start;
+  background-color: var(--hover);
+  border-radius: 3.2px;
+  display: flex;
+  flex-direction: column;
+  gap: 6.4px;
+  height: 135.14px;
+  justify-content: center;
+  left: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 146px;
+  width: 269px;
+}
+
+.frame-mobiles-screen .frame-34 {
+  align-items: flex-start;
+  background-color: var(--hover);
+  border-radius: 3.2px;
+  display: flex;
+  flex-direction: column;
+  gap: 6.4px;
+  height: 135.14px;
+  justify-content: center;
+  left: 3px;
+  opacity: 0.5;
+  position: absolute;
+  top: 438px;
+  width: 269px;
+}

@@ -1,0 +1,1 @@
+export { FrameMobilesScreen } from "./FrameMobilesScreen";

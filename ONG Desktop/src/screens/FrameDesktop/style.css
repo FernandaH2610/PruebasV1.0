@@ -1,0 +1,288 @@
+.frame-desktop {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame-desktop .div-4 {
+  background-color: #ffffff;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.frame-desktop .footer-instance {
+  background-color: transparent !important;
+  gap: 20px !important;
+  height: 104px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 920px !important;
+  width: 1440px !important;
+}
+
+.frame-desktop .design-component-instance-node {
+  gap: 16px !important;
+  height: 42px !important;
+  left: 450px !important;
+  top: 32px !important;
+}
+
+.frame-desktop .footer-2 {
+  object-fit: unset !important;
+}
+
+.frame-desktop .footer-3 {
+  font-size: 24px !important;
+}
+
+.frame-desktop .nav-instance {
+  gap: 15px !important;
+  height: 100px !important;
+  left: 80px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 1360px !important;
+}
+
+.frame-desktop .nav-2 {
+  gap: 30px !important;
+  left: 1075px !important;
+  top: 28px !important;
+}
+
+.frame-desktop .nav-3 {
+  height: 45px !important;
+  width: 45px !important;
+}
+
+.frame-desktop .nav-4 {
+  height: 45px !important;
+  left: 38px !important;
+  top: 28px !important;
+  width: 618px !important;
+}
+
+.frame-desktop .nav-5 {
+  border-radius: 37.5px 0px 0px 37.5px !important;
+  height: 45px !important;
+  width: 30px !important;
+}
+
+.frame-desktop .nav-6 {
+  height: 15px !important;
+  left: 9px !important;
+  top: 15px !important;
+  width: 15px !important;
+}
+
+.frame-desktop .nav-7 {
+  font-size: 16.5px !important;
+  left: 39px !important;
+  top: 14px !important;
+  width: 75px !important;
+}
+
+.frame-desktop .overlap-group-3 {
+  height: 155px;
+  left: 550px;
+  position: absolute;
+  top: 179px;
+  width: 728px;
+}
+
+.frame-desktop .bx-user-circle {
+  display: block;
+  height: 45px;
+  left: 110px;
+  position: absolute;
+  top: 110px;
+  width: 45px;
+}
+
+.frame-desktop .text-wrapper-13 {
+  color: #000000;
+  font-family: "Domine", Helvetica;
+  font-size: 48px;
+  font-weight: 400;
+  height: 111px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 728px;
+}
+
+.frame-desktop .frame-15 {
+  display: block;
+  height: 50px;
+  left: 15px;
+  position: absolute;
+  top: 31px;
+  width: 50px;
+}
+
+.frame-desktop .text-wrapper-14 {
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 16.5px;
+  font-weight: 400;
+  height: 45px;
+  left: 155px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 109px;
+  width: 172px;
+}
+
+.frame-desktop .menu-9 {
+  height: 919px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 80px !important;
+}
+
+.frame-desktop .line-2 {
+  height: 665px;
+  left: 528px;
+  object-fit: cover;
+  position: absolute;
+  top: 180px;
+  width: 1px;
+}
+
+.frame-desktop .text-wrapper-15 {
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 660px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 362px;
+  width: 600px;
+}
+
+.frame-desktop .text-wrapper-16 {
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 660px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 594px;
+  width: 600px;
+}
+
+.frame-desktop .resea {
+  border-radius: 3.75px !important;
+  height: 161px !important;
+  left: 105px !important;
+  position: absolute !important;
+  top: 158px !important;
+  width: 398px !important;
+}
+
+.frame-desktop .rese-a-instance {
+  font-size: 24px !important;
+  left: 51px !important;
+  top: 12px !important;
+}
+
+.frame-desktop .resea-2 {
+  height: 38px !important;
+  left: 8px !important;
+  top: 8px !important;
+  width: 38px !important;
+}
+
+.frame-desktop .resea-3 {
+  height: 22px !important;
+  left: 121px !important;
+  top: 120px !important;
+  width: 142px !important;
+}
+
+.frame-desktop .estrellas-15 {
+  height: 22px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 22px !important;
+}
+
+.frame-desktop .estrellas-20 {
+  height: 22px !important;
+  left: 30px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 22px !important;
+}
+
+.frame-desktop .estrellas-15-instance {
+  height: 22px !important;
+  left: 60px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 22px !important;
+}
+
+.frame-desktop .estrellas-20-instance {
+  height: 22px !important;
+  left: 90px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 22px !important;
+}
+
+.frame-desktop .estrellas-4 {
+  height: 22px !important;
+  left: 120px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 22px !important;
+}
+
+.frame-desktop .resea-4 {
+  font-size: 11.2px !important;
+  left: 48px !important;
+  top: 57px !important;
+  width: 303px !important;
+}
+
+.frame-desktop .resea-5 {
+  border-radius: 3.75px !important;
+  height: 161px !important;
+  left: 105px !important;
+  position: absolute !important;
+  top: 339px !important;
+  width: 398px !important;
+}
+
+.frame-desktop .resea-6 {
+  border-radius: 3.75px !important;
+  height: 161px !important;
+  left: 105px !important;
+  position: absolute !important;
+  top: 520px !important;
+  width: 398px !important;
+}
+
+.frame-desktop .resea-7 {
+  border-radius: 3.75px !important;
+  height: 161px !important;
+  left: 105px !important;
+  position: absolute !important;
+  top: 701px !important;
+  width: 398px !important;
+}

@@ -1,0 +1,297 @@
+.card-desktop {
+  height: 211px;
+  position: relative;
+  width: 420px;
+}
+
+.card-desktop .rectangle-4 {
+  object-fit: cover;
+}
+
+.card-desktop .frame-8 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--hover);
+  border-radius: 5px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 10px;
+  justify-content: center;
+  opacity: 0.5;
+  position: relative;
+  width: 100%;
+}
+
+.card-desktop .rectangle-5 {
+  align-self: stretch;
+  flex: 1;
+  flex-grow: 1;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.card-desktop .text-wrapper-3 {
+  color: var(--dark-text-color);
+  font-family: "Comfortaa", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  top: 111px;
+  white-space: nowrap;
+}
+
+.card-desktop .text-wrapper-4 {
+  color: var(--dark-text-color);
+  font-family: "Domine", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 145px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 62px;
+  white-space: nowrap;
+}
+
+.card-desktop .frame-9 {
+  position: absolute;
+}
+
+.card-desktop .text-wrapper-5 {
+  color: var(--dark-text-color);
+  flex: 1;
+  font-family: "Domine", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.card-desktop .text-wrapper-6 {
+  color: var(--dark-text-color);
+  flex: 1;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: relative;
+  text-align: center;
+}
+
+.card-desktop .icon {
+  background-color: var(--dark-color);
+  border-radius: 15px;
+  height: 30px;
+  left: 195px;
+  position: absolute;
+  top: 91px;
+  width: 30px;
+}
+
+.card-desktop .overlap-group {
+  height: 10px;
+  left: 10px;
+  position: relative;
+  top: 10px;
+  width: 10px;
+}
+
+.card-desktop .rectangle-6 {
+  background-color: var(--main-item-color);
+  height: 10px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.card-desktop .rectangle-7 {
+  background-color: var(--main-item-color);
+  height: 10px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  transform: rotate(-90deg);
+  width: 2px;
+}
+
+.card-desktop .rectangle-8 {
+  background-color: var(--second-item-color);
+  height: 10px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.card-desktop .rectangle-9 {
+  background-color: var(--second-item-color);
+  height: 10px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  transform: rotate(-90deg);
+  width: 2px;
+}
+
+.card-desktop .frame-10 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--disabled);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 211px;
+  justify-content: center;
+  padding: 20px 8px;
+  position: relative;
+  width: 100%;
+}
+
+.card-desktop .text-wrapper-7 {
+  color: var(--dark-text-color);
+  font-family: "Domine", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 47px;
+  width: 404px;
+}
+
+.card-desktop .overlap-group-wrapper {
+  background-color: var(--light-color);
+  border-radius: 25px;
+  height: 50px;
+  left: 185px;
+  position: absolute;
+  top: 114px;
+  transform: rotate(-45deg);
+  width: 50px;
+}
+
+.card-desktop .overlap-group-2 {
+  height: 17px;
+  left: 17px;
+  position: relative;
+  top: 17px;
+  width: 17px;
+}
+
+.card-desktop .rectangle-10 {
+  background-color: var(--second-item-color);
+  height: 17px;
+  left: 7px;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.card-desktop .rectangle-11 {
+  background-color: var(--second-item-color);
+  height: 17px;
+  left: 7px;
+  position: absolute;
+  top: 0;
+  transform: rotate(-90deg);
+  width: 3px;
+}
+
+.card-desktop.hover {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-desktop.disable {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-desktop.click {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-desktop.hover .rectangle-4 {
+  position: absolute;
+  width: 420px;
+}
+
+.card-desktop.default .rectangle-4 {
+  height: 106px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 420px;
+}
+
+.card-desktop.disable .rectangle-4 {
+  position: absolute;
+  width: 420px;
+}
+
+.card-desktop.click .rectangle-4 {
+  align-self: stretch;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+}
+
+.card-desktop.hover .frame-9 {
+  background-color: var(--light-color);
+  border-radius: 15px;
+  height: 30px;
+  left: 195px;
+  top: 150px;
+  width: 30px;
+}
+
+.card-desktop.default .frame-9 {
+  align-items: center;
+  background-color: var(--light-text-color);
+  border-radius: 0px 0px 5px 5px;
+  display: flex;
+  gap: 10px;
+  height: 105.5px;
+  left: 0;
+  padding: 20px 8px;
+  top: 106px;
+  width: 420px;
+}
+
+.card-desktop.disable .frame-9 {
+  background-color: var(--light-text-color);
+  border-radius: 0px 0px 5px 5px;
+  height: 105.5px;
+  left: 0;
+  top: 106px;
+  width: 420px;
+}
+
+.card-desktop.click .frame-9 {
+  background-color: var(--light-text-color);
+  border-radius: 0px 0px 5px 5px;
+  height: 105.5px;
+  left: 0;
+  top: 106px;
+  width: 420px;
+}

@@ -1,0 +1,101 @@
+.desplegables-screen {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 19.75px;
+  height: 158px;
+  position: relative;
+  width: 434.5px;
+}
+
+.desplegables-screen .desplegables-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 19.75px;
+  height: 158px;
+  opacity: 0;
+  width: 434.5px;
+}
+
+.desplegables-screen .rectangle-18 {
+  align-self: stretch;
+  background-color: var(--light-text-color);
+  border-radius: 19.75px 0px 19.75px 19.75px;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+}
+
+.desplegables-screen .desplegable-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 19.75px;
+  height: 99px;
+  justify-content: center;
+  left: 19px;
+  position: absolute;
+  top: 30px;
+  width: 397px;
+}
+
+.desplegables-screen .home-2 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 9.88px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 19.75px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.desplegables-screen .bx-upload {
+  height: 29.62px;
+  margin-bottom: -967.44px;
+  position: relative;
+  width: 29.62px;
+}
+
+.desplegables-screen .text-wrapper-22 {
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 23.7px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desplegables-screen .me-gusta-2 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 9.88px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 19.75px;
+  position: relative;
+  width: 100%;
+}
+
+.desplegables-screen .bx-message-square {
+  height: 29.62px;
+  margin-bottom: -908.19px;
+  position: relative;
+  width: 29.62px;
+}
+
+.desplegables-screen .bx-x-3 {
+  height: 30px;
+  left: 788px;
+  position: absolute;
+  top: 1002px;
+  width: 30px;
+}

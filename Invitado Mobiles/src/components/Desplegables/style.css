@@ -1,0 +1,408 @@
+.desplegables {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 220px;
+}
+
+.desplegables .rectangle-8 {
+  align-self: stretch;
+  border-radius: 10px 0px 10px 10px;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+}
+
+.desplegables .desplegable {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  left: 10px;
+  position: absolute;
+}
+
+.desplegables .add {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 5px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.desplegables .add-2 {
+  position: relative;
+  width: 15px;
+}
+
+.desplegables .agenda-una-cita {
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desplegables .me-gusta {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 5px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.desplegables .bx-message-square-2 {
+  height: 15px;
+  position: relative;
+  width: 15px;
+}
+
+.desplegables .contactanos {
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desplegables .div-3 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--hover);
+  border-radius: 5px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.desplegables .img-2 {
+  height: 15px;
+  margin-bottom: -0.6px;
+  margin-top: -0.6px;
+  position: relative;
+  width: 15px;
+}
+
+.desplegables .text-wrapper-5 {
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.6px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desplegables .bx-x-2 {
+  height: 15px;
+  left: 205px;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.desplegables .desplegable-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 109px;
+  justify-content: center;
+  left: 10px;
+  position: absolute;
+  top: 9px;
+}
+
+.desplegables .add-3 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 5px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.desplegables .add-4 {
+  height: 15px;
+  position: relative;
+  width: 15px;
+}
+
+.desplegables .text-wrapper-6 {
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desplegables .pending {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 5px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.desplegables .bx-calendar-minus {
+  height: 15px;
+  position: relative;
+  width: 15px;
+}
+
+.desplegables .text-wrapper-7 {
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desplegables .cancel {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 5px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.desplegables .bx-calendar-x {
+  height: 15px;
+  position: relative;
+  width: 15px;
+}
+
+.desplegables .text-wrapper-8 {
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desplegables .done {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 5px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.desplegables .bx-calendar-check {
+  height: 15px;
+  position: relative;
+  width: 15px;
+}
+
+.desplegables .text-wrapper-9 {
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desplegables.contacto-hover {
+  height: 80px;
+}
+
+.desplegables.notificaciones-hove {
+  height: 80px;
+}
+
+.desplegables.agenda-hover {
+  height: 127px;
+}
+
+.desplegables.notificaciones {
+  height: 80px;
+}
+
+.desplegables.agenda {
+  box-shadow: 0px 4px 4px #00000040;
+  height: 127px;
+}
+
+.desplegables.contacto {
+  height: 80px;
+}
+
+.desplegables.contacto-hover .rectangle-8 {
+  background-color: var(--light-text-color);
+}
+
+.desplegables.notificaciones-hove .rectangle-8 {
+  background-color: var(--light-text-color);
+}
+
+.desplegables.agenda-hover .rectangle-8 {
+  background-color: var(--light-text-color);
+}
+
+.desplegables.notificaciones .rectangle-8 {
+  background-color: var(--light-text-color);
+}
+
+.desplegables.agenda .rectangle-8 {
+  background-color: #ffffff;
+}
+
+.desplegables.contacto .rectangle-8 {
+  background-color: var(--light-text-color);
+}
+
+.desplegables.contacto-hover .desplegable {
+  height: 50px;
+  top: 15px;
+  width: 201px;
+}
+
+.desplegables.notificaciones-hove .desplegable {
+  height: 50px;
+  top: 15px;
+  width: 201px;
+}
+
+.desplegables.agenda-hover .desplegable {
+  height: 109px;
+  top: 9px;
+  width: 195px;
+}
+
+.desplegables.notificaciones .desplegable {
+  height: 50px;
+  top: 15px;
+  width: 201px;
+}
+
+.desplegables.agenda .desplegable {
+  height: 50px;
+  top: 15px;
+  width: 201px;
+}
+
+.desplegables.contacto .desplegable {
+  height: 50px;
+  top: 15px;
+  width: 201px;
+}
+
+.desplegables.contacto-hover .add {
+  background-color: var(--hover);
+}
+
+.desplegables.notificaciones-hove .add {
+  background-color: var(--hover);
+}
+
+.desplegables.agenda-hover .add {
+  background-color: var(--hover);
+}
+
+.desplegables.contacto-hover .add-2 {
+  height: 15px;
+}
+
+.desplegables.notificaciones-hove .add-2 {
+  height: 15px;
+}
+
+.desplegables.agenda-hover .add-2 {
+  height: 13.8px;
+}
+
+.desplegables.notificaciones .add-2 {
+  height: 15px;
+}
+
+.desplegables.agenda .add-2 {
+  height: 15px;
+}
+
+.desplegables.contacto .add-2 {
+  height: 15px;
+}
+
+.desplegables.agenda-hover .agenda-una-cita {
+  margin-top: -0.6px;
+}
+
+.desplegables.contacto-hover .me-gusta {
+  background-color: var(--hover);
+}
+
+.desplegables.notificaciones-hove .me-gusta {
+  background-color: var(--hover);
+}
+
+.desplegables.agenda-hover .me-gusta {
+  background-color: var(--hover);
+}
+
+.desplegables.agenda-hover .bx-message-square-2 {
+  margin-bottom: -0.6px;
+  margin-top: -0.6px;
+}
+
+.desplegables.agenda-hover .contactanos {
+  margin-top: -0.6px;
+}

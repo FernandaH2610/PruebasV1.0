@@ -1,0 +1,1 @@
+export { FrameMobileHome } from "./FrameMobileHome";

@@ -1,0 +1,258 @@
+.screen-7 {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.screen-7 .frame-desktop-7 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #ffffff1a;
+  height: 1024px;
+  overflow: hidden;
+  position: relative;
+  width: 1437px;
+}
+
+.screen-7 .overlap-wrapper {
+  height: 592px;
+  left: 80px;
+  position: absolute;
+  top: 280px;
+  width: 1360px;
+}
+
+.screen-7 .card-desktop-wrapper {
+  background-image: url(../../../static/img/carrucel.svg);
+  background-size: 100% 100%;
+  height: 592px;
+  width: 1357px;
+}
+
+.screen-7 .card-desktop-15 {
+  height: 592px;
+  left: 163px;
+  position: relative;
+  width: 1050px;
+}
+
+.screen-7 .rectangle-24 {
+  height: 264px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1050px;
+}
+
+.screen-7 .frame-14 {
+  align-items: center;
+  background-color: var(--light-text-color);
+  border-radius: 0px 0px 12.5px 12.5px;
+  display: flex;
+  gap: 25px;
+  height: 263.75px;
+  left: 0;
+  padding: 50px 20px;
+  position: absolute;
+  top: 264px;
+  width: 1050px;
+}
+
+.screen-7 .text-wrapper-32 {
+  color: var(--dark-text-color);
+  flex: 1;
+  font-family: "Domine", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.screen-7 .text-wrapper-33 {
+  color: var(--dark-text-color);
+  flex: 1;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: relative;
+  text-align: center;
+}
+
+.screen-7 .overlap-group-wrapper {
+  background-color: var(--dark-color);
+  border-radius: 37.5px;
+  height: 75px;
+  left: 488px;
+  position: absolute;
+  top: 228px;
+  width: 75px;
+}
+
+.screen-7 .overlap-group-6 {
+  height: 25px;
+  left: 25px;
+  position: relative;
+  top: 25px;
+  width: 25px;
+}
+
+.screen-7 .rectangle-25 {
+  background-color: var(--main-item-color);
+  height: 25px;
+  left: 10px;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+
+.screen-7 .rectangle-26 {
+  background-color: var(--main-item-color);
+  height: 25px;
+  left: 10px;
+  position: absolute;
+  top: 0;
+  transform: rotate(-90deg);
+  width: 5px;
+}
+
+.screen-7 .overlap-5 {
+  height: 210px;
+  left: 80px;
+  position: absolute;
+  top: 0;
+  width: 1360px;
+}
+
+.screen-7 .text-wrapper-34 {
+  color: #000000;
+  font-family: "Domine", Helvetica;
+  font-size: 48px;
+  font-weight: 400;
+  height: 111px;
+  left: 101px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 99px;
+  width: 1076px;
+}
+
+.screen-7 .nav-43 {
+  gap: 15px !important;
+  height: 100px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 1360px !important;
+}
+
+.screen-7 .nav-44 {
+  gap: 30px !important;
+  left: 1075px !important;
+  top: 27px !important;
+}
+
+.screen-7 .nav-45 {
+  height: 45px !important;
+  width: 45px !important;
+}
+
+.screen-7 .nav-46 {
+  height: 45px !important;
+  left: 38px !important;
+  top: 27px !important;
+  width: 618px !important;
+}
+
+.screen-7 .nav-47 {
+  border-radius: 37.5px 0px 0px 37.5px !important;
+  height: 45px !important;
+  width: 30px !important;
+}
+
+.screen-7 .nav-48 {
+  height: 15px !important;
+  left: 9px !important;
+  top: 15px !important;
+  width: 15px !important;
+}
+
+.screen-7 .nav-49 {
+  font-size: 16.5px !important;
+  left: 39px !important;
+  top: 13px !important;
+  width: 75px !important;
+}
+
+.screen-7 .overlap-6 {
+  height: 41px;
+  left: 182px;
+  position: absolute;
+  top: 210px;
+  width: 1076px;
+}
+
+.screen-7 .text-wrapper-35 {
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  height: 40px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 1076px;
+}
+
+.screen-7 .frame-15 {
+  display: block;
+  height: 30px;
+  left: 762px;
+  position: absolute;
+  top: 11px;
+  width: 30px;
+}
+
+.screen-7 .footer-24 {
+  background-color: transparent !important;
+  gap: 20px !important;
+  height: 104px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 920px !important;
+  width: 1440px !important;
+}
+
+.screen-7 .footer-25 {
+  gap: 16px !important;
+  height: 42px !important;
+  left: 450px !important;
+  top: 32px !important;
+}
+
+.screen-7 .footer-26 {
+  object-fit: unset !important;
+}
+
+.screen-7 .footer-27 {
+  font-size: 24px !important;
+}
+
+.screen-7 .menu-6 {
+  height: 920px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 80px !important;
+}

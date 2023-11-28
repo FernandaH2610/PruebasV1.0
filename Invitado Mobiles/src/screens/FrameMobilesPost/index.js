@@ -1,0 +1,1 @@
+export { FrameMobilesPost } from "./FrameMobilesPost";

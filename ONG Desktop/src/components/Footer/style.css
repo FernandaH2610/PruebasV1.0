@@ -1,0 +1,51 @@
+.footer {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 52px;
+  position: relative;
+  width: 612px;
+}
+
+.footer .rectangle {
+  align-self: stretch;
+  background-color: var(--dark-color);
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+}
+
+.footer .frame {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 21px;
+  left: 171px;
+  position: absolute;
+  top: 16px;
+}
+
+.footer .line {
+  align-self: stretch;
+  flex: 1;
+  flex-grow: 1;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.footer .text-wrapper {
+  align-self: stretch;
+  color: var(--light-text-color);
+  flex: 1;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+}

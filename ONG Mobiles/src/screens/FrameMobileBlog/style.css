@@ -1,0 +1,109 @@
+.frame-mobile-blog {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame-mobile-blog .div-7 {
+  background-color: #ffffff;
+  height: 932px;
+  overflow: hidden;
+  position: relative;
+  width: 430px;
+}
+
+.frame-mobile-blog .card-mobiles-4 {
+  left: 44px !important;
+  position: absolute !important;
+  top: 201px !important;
+}
+
+.frame-mobile-blog .card-mobiles-5 {
+  left: 44px !important;
+  position: absolute !important;
+  top: 579px !important;
+}
+
+.frame-mobile-blog .card-mobiles-6 {
+  left: 44px !important;
+  position: absolute !important;
+  top: 327px !important;
+}
+
+.frame-mobile-blog .card-mobiles-7 {
+  left: 44px !important;
+  position: absolute !important;
+  top: 705px !important;
+}
+
+.frame-mobile-blog .card-mobiles-8 {
+  left: 44px !important;
+  position: absolute !important;
+  top: 453px !important;
+}
+
+.frame-mobile-blog .overlap-5 {
+  height: 101px;
+  left: 0;
+  position: absolute;
+  top: 831px;
+  width: 430px;
+}
+
+.frame-mobile-blog .card-mobiles-9 {
+  left: 44px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.frame-mobile-blog .footer-15 {
+  background-color: transparent !important;
+  height: 50px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 51px !important;
+  width: 430px !important;
+}
+
+.frame-mobile-blog .footer-16 {
+  left: 80px !important;
+  top: 15px !important;
+}
+
+.frame-mobile-blog .nav-15 {
+  height: 60px !important;
+  left: 60px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 370px !important;
+}
+
+.frame-mobile-blog .nav-16 {
+  left: 130px !important;
+  top: 15px !important;
+}
+
+.frame-mobile-blog .text-wrapper-23 {
+  color: #000000;
+  font-family: "Domine", Helvetica;
+  font-size: 48px;
+  font-weight: 400;
+  height: 111px;
+  left: -1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  width: 430px;
+}
+
+.frame-mobile-blog .menu-4 {
+  height: 60px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 60px !important;
+}

@@ -1,0 +1,336 @@
+.screen-13 {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.screen-13 .frame-desktop-10 {
+  background-color: #ffffff;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.screen-13 .footer-40 {
+  background-color: transparent !important;
+  gap: 20px !important;
+  height: 104px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 920px !important;
+  width: 1440px !important;
+}
+
+.screen-13 .footer-41 {
+  gap: 16px !important;
+  height: 42px !important;
+  left: 450px !important;
+  top: 32px !important;
+}
+
+.screen-13 .footer-42 {
+  object-fit: unset !important;
+}
+
+.screen-13 .footer-43 {
+  font-size: 24px !important;
+}
+
+.screen-13 .nav-71 {
+  gap: 15px !important;
+  height: 100px !important;
+  left: 80px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 1360px !important;
+}
+
+.screen-13 .nav-72 {
+  gap: 30px !important;
+  left: 1075px !important;
+  top: 28px !important;
+}
+
+.screen-13 .nav-73 {
+  height: 45px !important;
+  width: 45px !important;
+}
+
+.screen-13 .nav-74 {
+  height: 45px !important;
+  left: 38px !important;
+  top: 27px !important;
+  width: 618px !important;
+}
+
+.screen-13 .nav-75 {
+  border-radius: 37.5px 0px 0px 37.5px !important;
+  height: 45px !important;
+  width: 30px !important;
+}
+
+.screen-13 .nav-76 {
+  height: 15px !important;
+  left: 9px !important;
+  top: 15px !important;
+  width: 15px !important;
+}
+
+.screen-13 .nav-77 {
+  font-size: 16.5px !important;
+  left: 39px !important;
+  top: 13px !important;
+  width: 75px !important;
+}
+
+.screen-13 .menu-instance {
+  height: 919px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 80px !important;
+}
+
+.screen-13 .line-7 {
+  height: 665px;
+  left: 494px;
+  object-fit: cover;
+  position: absolute;
+  top: 180px;
+  width: 1px;
+}
+
+.screen-13 .overlap-16 {
+  height: 680px;
+  left: 183px;
+  position: absolute;
+  top: 180px;
+  width: 257px;
+}
+
+.screen-13 .desplegables-5 {
+  align-items: flex-start;
+  box-shadow: 0px 6px 6px #00000040;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  height: 680px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 257px;
+}
+
+.screen-13 .rectangle-31 {
+  align-self: stretch;
+  background-color: #ffffff;
+  border-radius: 15px 0px 15px 15px;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+}
+
+.screen-13 .desplegable-5 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 15px;
+  height: 164px;
+  justify-content: center;
+  left: 15px;
+  position: absolute;
+  top: 258px;
+}
+
+.screen-13 .add-5 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 7.5px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 15px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.screen-13 .add-6 {
+  height: 20.7px;
+  position: relative;
+  width: 22.5px;
+}
+
+.screen-13 .text-wrapper-46 {
+  color: #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.15px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.screen-13 .div-8 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 7.5px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.screen-13 .img-5 {
+  height: 22.5px;
+  margin-bottom: -0.9px;
+  margin-top: -0.9px;
+  position: relative;
+  width: 22.5px;
+}
+
+.screen-13 .editar-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--hover-2);
+  border-radius: 7.5px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.screen-13 .text-wrapper-47 {
+  color: #000000;
+  font-family: "Domine", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  height: 84px;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 89px;
+  width: 218px;
+}
+
+.screen-13 .frame-21 {
+  height: 50px;
+  left: 494px;
+  position: absolute;
+  top: 119px;
+  width: 50px;
+}
+
+.screen-13 .card-desktop-30 {
+  font-size: 9px !important;
+  left: 28px !important;
+  line-height: 7.5px !important;
+  top: 83px !important;
+}
+
+.screen-13 .card-desktop-31 {
+  font-size: 10.5px !important;
+  left: 108px !important;
+  top: 46px !important;
+}
+
+.screen-13 .card-desktop-32 {
+  height: 8px !important;
+  left: 8px !important;
+  top: 8px !important;
+  width: 8px !important;
+}
+
+.screen-13 .card-desktop-33 {
+  height: 8px !important;
+  left: 3px !important;
+}
+
+.screen-13 .card-desktop-34 {
+  height: 158px !important;
+  left: 650px !important;
+  position: absolute !important;
+  top: 180px !important;
+  width: 315px !important;
+}
+
+.screen-13 .card-desktop-35 {
+  border-radius: 3.75px !important;
+  gap: 7.5px !important;
+}
+
+.screen-13 .card-desktop-36 {
+  border-radius: 11.25px !important;
+  height: 22px !important;
+  left: 147px !important;
+  top: 112px !important;
+  width: 22px !important;
+}
+
+.screen-13 .card-desktop-37 {
+  height: 158px !important;
+  left: 645px !important;
+  position: absolute !important;
+  top: 518px !important;
+  width: 315px !important;
+}
+
+.screen-13 .card-desktop-38 {
+  height: 158px !important;
+  left: 650px !important;
+  position: absolute !important;
+  top: 349px !important;
+  width: 315px !important;
+}
+
+.screen-13 .card-desktop-39 {
+  height: 158px !important;
+  left: 645px !important;
+  position: absolute !important;
+  top: 687px !important;
+  width: 315px !important;
+}
+
+.screen-13 .card-desktop-40 {
+  height: 158px !important;
+  left: 975px !important;
+  position: absolute !important;
+  top: 180px !important;
+  width: 315px !important;
+}
+
+.screen-13 .card-desktop-41 {
+  height: 158px !important;
+  left: 970px !important;
+  position: absolute !important;
+  top: 518px !important;
+  width: 315px !important;
+}
+
+.screen-13 .card-desktop-42 {
+  height: 158px !important;
+  left: 975px !important;
+  position: absolute !important;
+  top: 349px !important;
+  width: 315px !important;
+}
+
+.screen-13 .card-desktop-43 {
+  height: 158px !important;
+  left: 970px !important;
+  position: absolute !important;
+  top: 687px !important;
+  width: 315px !important;
+}
